@@ -162,13 +162,16 @@ More cloud-focused builds are on the way as I deepen my AWS and Docker skills.
 
 ## 📜 Certifications
 
+## 📜 Certifications
+
 <div align="center">
 
 | Certification | Issuer | Status |
 |---|---|---|
-| AWS Certified Cloud Practitioner | Amazon Web Services | 🔄 In Progress |
-| Cloud Computing Specialization | Coursera | 🔄 In Progress |
-| More certifications | — | 🌟 Coming Soon |
+| Python (Basic) | HackerRank | ✅ Completed |
+| Introduction to Cloud Computing | IBM SkillsBuild | 🔄 In Progress |
+| MERN Stack (30 Days) | NoviTech | 🔄 In Progress |
+| AWS Certified Cloud Practitioner | Amazon Web Services | 🌟 Planned |
 
 </div>
 
