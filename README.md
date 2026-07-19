@@ -1,7 +1,6 @@
 <div align="center">
 
-# 🚀 Soya Pradeep
-### ☁️ Cloud Computing Student | Aspiring Software Engineer
+<img width="900" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FF7&height=200&section=header&text=Soya%20Pradeep&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Computing%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=55&descSize=18&v=2"/>
 
 <br/>
 
@@ -12,12 +11,16 @@
 <a href="https://www.linkedin.com/in/soya-pradeep">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 &nbsp;
+
 <a href="https://github.com/pradeepsoya">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 &nbsp;
-<img src="https://img.shields.io/badge/Location-Kerala,%20India-7B2FF7?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Location-Kerala%2C%20India-7B2FF7?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
