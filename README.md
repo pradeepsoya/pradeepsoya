@@ -1,32 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:FFC1CC,100:E8B4B8&height=200&section=header&text=Soya%20Pradeep&fontSize=48&fontColor=6B4C57&animation=fadeIn&fontAlignY=35&desc=Cloud%20Computing%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=55&descSize=17&descColor=6B4C57"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FF7&height=200&section=header&text=Soya%20Pradeep&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Computing%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=55&descSize=18"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=B76E79&center=true&vCenter=true&width=700&lines=Cloud+Computing+Student;Aspiring+Cloud+Engineer;Full+Stack+Developer;MERN+Stack+Learner;AWS+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Cloud+Computing+Student;Aspiring+Cloud+Engineer;Full+Stack+Developer;MERN+Stack+Learner;AWS+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/soya-pradeep">
-  <img src="https://img.shields.io/badge/LinkedIn-FFC1CC?style=for-the-badge&logo=linkedin&logoColor=6B4C57"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/pradeepsoya">
-  <img src="https://img.shields.io/badge/GitHub-E8B4B8?style=for-the-badge&logo=github&logoColor=6B4C57"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Location-Kerala,%20India-F7CAC9?style=for-the-badge&logo=googlemaps&logoColor=6B4C57"/>
+<img src="https://img.shields.io/badge/Location-Kerala,%20India-7B2FF7?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pradeepsoya&label=Profile%20Views&color=E8B4B8&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=pradeepsoya&label=Profile%20Views&color=7B2FF7&style=for-the-badge)
 
 </div>
 
 <br/>
 
-## 🌸 About Me
+## 👩‍💻 About Me
 
 <div align="center">
 
@@ -46,29 +46,29 @@
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,javascript&theme=light"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript"/>
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=light"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=light"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
 
 **Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
 **Cloud & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,firebase,git,github,vscode&theme=light"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,firebase,git,github,vscode"/>
 
 </div>
 
 <br/>
 
-## 🌷 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -82,7 +82,7 @@
 Appointment booking, staff management, billing, and reports for salons.
 
 <a href="https://github.com/eoxonitsolutions/Velora">
-  <img src="https://img.shields.io/badge/View%20Repo-E8B4B8?style=for-the-badge&logo=github&logoColor=6B4C57"/>
+  <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -94,7 +94,7 @@ Appointment booking, staff management, billing, and reports for salons.
 A responsive personal portfolio showcasing my skills and projects.
 
 <a href="https://github.com/pradeepsoya/Portfolio">
-  <img src="https://img.shields.io/badge/View%20Repo-E8B4B8?style=for-the-badge&logo=github&logoColor=6B4C57"/>
+  <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -119,12 +119,12 @@ More exciting cloud projects on the way.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pradeepsoya&show_icons=true&hide_border=true&bg_color=FFF5F5&title_color=B76E79&icon_color=E8A0A6&text_color=6B4C57"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepsoya&layout=compact&hide_border=true&bg_color=FFF5F5&title_color=B76E79&text_color=6B4C57"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pradeepsoya&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepsoya&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=pradeepsoya&hide_border=true&background=FFF5F5&ring=B76E79&fire=E8A0A6&currStreakLabel=B76E79&sideLabels=6B4C57&currStreakNum=6B4C57&sideNums=6B4C57&dates=B76E79"/>
+<img src="https://streak-stats.demolab.com?user=pradeepsoya&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepsoya&hide_border=true&bg_color=FFF5F5&color=B76E79&line=E8A0A6&point=6B4C57" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepsoya&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
@@ -134,12 +134,12 @@ More exciting cloud projects on the way.
 
 <div align="center">
 
-🌸 Building Full Stack Projects
-🌸 Learning AWS
-🌸 Learning Docker
-🌸 Improving DSA
-🌸 Preparing for Placements
-🌸 Exploring Open Source
+✅ Building Full Stack Projects
+✅ Learning AWS
+✅ Learning Docker
+✅ Improving DSA
+✅ Preparing for Placements
+✅ Exploring Open Source
 
 </div>
 
@@ -151,25 +151,25 @@ More exciting cloud projects on the way.
 
 | Certification | Status |
 |---|---|
-| Python (Basic) — HackerRank | 🌷 Completed |
-| Introduction to Cloud Computing — IBM SkillsBuild | 🌱 In Progress |
-| MERN Stack (30 Days) — NoviTech | 🌱 In Progress |
-| AWS Certified Cloud Practitioner | ✨ Planned |
+| Python (Basic) — HackerRank | ✅ Completed |
+| Introduction to Cloud Computing — IBM SkillsBuild | 🔄 In Progress |
+| MERN Stack (30 Days) — NoviTech | 🔄 In Progress |
+| AWS Certified Cloud Practitioner | 🌟 Planned |
 
 </div>
 
 <br/>
 
-## 💌 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/soya-pradeep">
-  <img src="https://img.shields.io/badge/LinkedIn-FFC1CC?style=for-the-badge&logo=linkedin&logoColor=6B4C57"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/pradeepsoya">
-  <img src="https://img.shields.io/badge/GitHub-E8B4B8?style=for-the-badge&logo=github&logoColor=6B4C57"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -178,10 +178,10 @@ More exciting cloud projects on the way.
 
 <div align="center">
 
-### 🌸 *"Consistency turns learning into expertise."*
+### 💬 *"Consistency turns learning into expertise."*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8B4B8,50:FFC1CC,100:FFD6E8&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=6B4C57&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00D9FF&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
