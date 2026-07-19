@@ -89,8 +89,8 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌱 Velora
-**Plant Nursery Management System**
+### ✂️ Velora
+**Salon Management System**
 
 A full-featured platform with inventory management, appointment booking, payment processing, and reporting.
 
