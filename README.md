@@ -1,21 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FF7&height=200&section=header&text=Soya%20Pradeep&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Computing%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=55&descSize=18"/>
+<img width="900" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FF7&height=200&section=header&text=Soya%20Pradeep&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Computing%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=55&descSize=18&v=4"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Cloud+Computing+Student;Aspiring+Cloud+Engineer;Full+Stack+Developer;MERN+Stack+Learner;AWS+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img width="700" src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Cloud+Computing+Student;Aspiring+Cloud+Engineer;Full+Stack+Developer;MERN+Stack+Learner;AWS+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <br/><br/>
-&nbsp;
-<a href="https://github.com/pradeepsoya">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Location-Kerala,%20India-7B2FF7?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/soya-pradeep">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/pradeepsoya">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+ 
+</p>
+<br/>
 <br/><br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=pradeepsoya&label=Profile%20Views&color=7B2FF7&style=for-the-badge)
-
 </div>
 
 <br/>
