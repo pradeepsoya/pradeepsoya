@@ -162,8 +162,6 @@ More cloud-focused builds are on the way as I deepen my AWS and Docker skills.
 
 ## 📜 Certifications
 
-## 📜 Certifications
-
 <div align="center">
 
 | Certification | Issuer | Status |
