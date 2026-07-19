@@ -1,5 +1,8 @@
 <div align="center">
-<img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FF7&height=200&section=header&text=Soya%20Pradeep&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Computing%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=55&descSize=18"/>
+
+# 🚀 Soya Pradeep
+### ☁️ Cloud Computing Student | Aspiring Software Engineer
+
 <br/>
 
 <img width="700" src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Cloud+Computing+Student;Aspiring+Cloud+Engineer;Full+Stack+Developer;MERN+Stack+Learner;AWS+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -180,6 +183,6 @@ More exciting cloud projects on the way.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00D9FF&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
+⭐ **Thank you for visiting my profile!**
 
 </div>
